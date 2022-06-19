@@ -1,12 +1,12 @@
-# UFOs sighting Analysis
+# UFOs Sighting Analysis
 
-In this challenge, our client Dana gave us the task of building a webpage about UFOs sightings with a table capable of filtering data. Our final **purpose** was to create a webpage that has a dynamic table with filters based on various criteria, such as date, city, and shape.
+In this challenge, our client Dana gave us the task of building a Webpage about UFOs sightings with a table capable of filtering data. In other words, our final **purpose** was to create a dynamic table with filters based on various criteria, such as date, city, and shape.
 
-Our **resources** and tools to achieve our goal were JavaScript, Visual Studio Code, HTML, CSS, and Bootstrap.
+The **resources** and tools to achieve our goal were **JavaScript, Visual Studio Code, HTML, CSS, and Bootstrap**.
 
 ## Results
 
-The following screenshot presents our UFOs Sightings webpage, which contains several elements, including a table and data filters.
+The following screenshot presents our UFOs Sightings Website, which contains several elements, including a table and data filters.
 
 ![Alt text](/Resources/1.png "imagen1")
 
@@ -35,6 +35,6 @@ Although the webpage looks awesome, it has some drawbacks. For example, you can 
 
 ## Recommendations:
 
-- Create a filter that includes the duration of UFO sightings, this can be achieved by time grouping.
+- Create a filter that includes the Duration of UFO sightings, this can be achieved by time grouping.
 - Create a function to sort the results data. For example, cities could be sorted from A to Z and vice-versa, while dates could be sorted ascending and descending.
-- Find a way for filters to recognize upper-case and lower-case letters to improve the user experience.
+- Find a way for filters to use and recognize upper-case and lower-case letters to improve the user experience.
