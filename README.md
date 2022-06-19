@@ -16,13 +16,20 @@ The image below shows a close-up of the dynamic table and its filters by date, c
 
 In the last screenshots, we show how the filters appear after being used. In other words, we demonstrate how the filters work.
 
-![Alt text](/Resources/2.png "imagen2")
+##### Filter by City
+![Alt text](/Resources/11.png "imagen2")
 
-![Alt text](/Resources/3.png "imagen3")
+##### Filter by State
+![Alt text](/Resources/7.png "imagen3")
 
-![Alt text](/Resources/4.png "imagen4")
+##### Filter by Country
+![Alt text](/Resources/5.png "imagen4")
 
-##Summary
+##### Filter by Date
+![Alt text](/Resources/9.png "imagen9")
+
+
+## Summary
 
 Although the webpage looks awesome, it has some drawbacks. For example, you can only search for information in lower-cased letters ( if we search for "La Mesa" instead of "la mesa", the filter will not show the user any results). We can conclude that this characteristic affects the user experience. Also, searching by dates is complicated, since the user would have to know the specific dates of when the incidents occurred. 
 
