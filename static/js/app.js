@@ -2,8 +2,8 @@
 const tableData = data;
 
 // Clear the existing data
-
 var tbody = d3.select("tbody");
+
 function buildTable(data) {
   tbody.html("");
 
@@ -68,5 +68,5 @@ function updateFilters() {
   // Attach an event to listen for changes to each filter.
   d3.selectAll("input").on("change",updateFilters);
   
-  // Build the table when the page loads.
+  // 2.- Build the table when the page loads.
   buildTable(tableData);
