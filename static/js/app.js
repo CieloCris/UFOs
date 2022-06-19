@@ -21,6 +21,7 @@ function buildTable(data) {
   });
 }
 
+// Challenge 11 - Deliverable 1
 // 1.- Create a variable to keep track the filters as an the object in an array.
 var filters = [];
 
