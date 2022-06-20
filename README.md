@@ -31,7 +31,7 @@ In the last screenshots, we show how the filters appear after being used. In oth
 
 ## Summary
 
-Although the webpage looks awesome, it has some drawbacks. For example, you can only search for information in lower-cased letters ( if we search for "La Mesa" instead of "la mesa", the filter will not show the user any results). We can conclude that this characteristic affects the user experience. Also, searching by dates is complicated, since the user would have to know the specific dates of when the incidents occurred. 
+Although the webpage looks awesome, it has some **drawbacks**. For example, you can only search for information in lower-cased letters ( if we search for "La Mesa" instead of "la mesa", the filter will not show the user any results). We can conclude that this characteristic affects the user experience. Also, searching by dates is complicated, since the user would have to know the specific dates of when the incidents occurred. 
 
 ## Recommendations:
 
